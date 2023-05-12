@@ -18,4 +18,4 @@ if($conexion->query($ssql)) {
 $conexion->close();
 
 ?>
-<p><a href="formulario.php">Volver al formulario</a></p>
+<p><a href="formulario.html">Volver al formulario</a></p>
