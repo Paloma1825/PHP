@@ -1,0 +1,33 @@
+body{
+	
+	background-color: #add9e6;	
+}
+h1{
+	text-align: center;
+}
+
+label{
+	margin-left:38%;
+	font-weight: bold
+}
+.campos{
+    padding: 10px 0px;
+    inline-size: 24%;
+	margin-left:38%;
+	border:60px;
+	text-align:left;
+	
+}
+#boton{
+	
+	text-align: center;
+    background-color: purple;
+    color:white;
+    padding: 10px 160px;
+    font-weight: bold;
+	margin-left:38%
+}
+span
+{
+	margin-left:38%
+}
